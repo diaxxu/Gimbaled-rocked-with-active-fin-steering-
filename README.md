@@ -1,9 +1,9 @@
-#  DIY Rocket with TVC & Active Fin Steerin
+#  DIY Rocket with TVC & Active Fin Steering
 
 This is my custom-designed rocket made in **Fusion 360**, featuring:
 
 - Thrust Vector Control (TVC) using 2-axis servo-actuated rings
-- Active fin steering system for stability & contr
+- Active fin steering system for stability & control
 - Modular electronics bay (E-Bay) for guidance, telemetry, and recovery
 - Designed for experimental testing with onboard sensor
 
@@ -34,24 +34,13 @@ This is my custom-designed rocket made in **Fusion 360**, featuring:
 
 ##  Build Material (Prototype)
 - 3D printed parts (PLA / PETG for test prints)
-- Carbon fiber for main fuselage (planned)
-- Aluminum or plywood for internal support
+- Carbon fiber tube for main fuselage 
+- Aluminum or plywood for internal support and e-bay
 - Screws, hinges, bearings as needed
 
 ---
 
-## 💡 Next Steps
-- Static fire testing of TVC system
-- Full integration of flight computer
-- Parachute deployment system
-- Launch & flight data logging
 
----
-
-## 📸 Sneak Peek
-*(Drop your screenshots here)*
-
----
 
 ## ⚠️ Disclaimer
 This project is for educational and experimental purposes only. Any real-world testing must follow safety guidelines, local regulations, and common sense.
@@ -59,7 +48,7 @@ This project is for educational and experimental purposes only. Any real-world t
 ---
 
 ## 💬 Credits
-Made by a student passionate about aerospace, robotics, and DIY rocketry.  
-Modeled fully in Fusion 360, inspired by real missile guidance systems.
+
+Modeled fully in Fusion 360,
 
 
