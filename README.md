@@ -1,4 +1,4 @@
-# 🚀 DIY Rocket with TVC & Active Fin Steering
+#  DIY Rocket with TVC & Active Fin Steering
 
 This is my custom-designed rocket made in **Fusion 360**, featuring:
 
@@ -9,20 +9,20 @@ This is my custom-designed rocket made in **Fusion 360**, featuring:
 
 ---
 
-## 🧩 Key Components
+##  Key Components
 
-### 🔄 Thrust Vector Control (TVC)
+###  Thrust Vector Control (TVC)
 - Dual-ring gimbal system for 2-axis movement (Pitch/Yaw)
 - Controlled by two servos positioned 90° apart
 - Motor is mounted in the inner ring
 - Outer ring fixed to rocket body via pivots
 
-### 🦾 Active Fin System
+###  Active Fin System
 - Four CNC-style fins
 - Mounted with servo-controlled rotation (each fin individually adjustable)
 - Controlled via Raspberry Pi / Arduino with PID loop or mixing logic
 
-### 📦 E-Bay (Electronics Bay)
+###  E-Bay (Electronics Bay)
 - Houses all flight electronics:
   - IMU / Gyroscope
   - GPS module
@@ -32,7 +32,7 @@ This is my custom-designed rocket made in **Fusion 360**, featuring:
 
 ---
 
-## 🛠️ Build Material (Prototype)
+##  Build Material (Prototype)
 - 3D printed parts (PLA / PETG for test prints)
 - Carbon fiber for main fuselage (planned)
 - Aluminum or plywood for internal support
