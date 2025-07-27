@@ -3,7 +3,7 @@
 This is my custom-designed rocket made in **Fusion 360**, featuring:
 
 - Thrust Vector Control (TVC) using 2-axis servo-actuated rings
-- Active fin steering system for stability & control
+- Active fin steering system for stability & contro
 - Modular electronics bay (E-Bay) for guidance, telemetry, and recovery
 - Designed for experimental testing with onboard sensors
 
