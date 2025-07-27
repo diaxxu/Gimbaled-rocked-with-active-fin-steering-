@@ -1,4 +1,4 @@
-#  DIY Rocket with TVC & Active Fin Steering
+#  DIY Rocket with TVC & Active Fin Steerin
 
 This is my custom-designed rocket made in **Fusion 360**, featuring:
 
