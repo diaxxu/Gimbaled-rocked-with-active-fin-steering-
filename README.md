@@ -1,5 +1,9 @@
 #  DIY Rocket with TVC & Active Fin Steering
 
+![Rocket](./PHOTO1.PNG)
+![Rocket Side View](./PHOTO2.PNG)
+
+
 This is my custom-designed rocket made in **Fusion 360**, featuring:
 
 - Thrust Vector Control (TVC) using 2-axis servo-actuated rings
