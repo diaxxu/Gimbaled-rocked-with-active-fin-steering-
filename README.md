@@ -20,7 +20,7 @@ This is my custom-designed rocket made in **Fusion 360**, featuring:
 ###  Active Fin System
 - Four CNC-style fins
 - Mounted with servo-controlled rotation (each fin individually adjustable)
-- Controlled via Raspberry Pi / Arduino with PID loop or mixing logic
+- Controlled via  Arduino with PID loop 
 
 ###  E-Bay (Electronics Bay)
 - Houses all flight electronics:
