@@ -52,7 +52,7 @@ This project is for educational and experimental purposes only. Any real-world t
 
 ---
 
-## 💬 Credits
+##  Credits
 
 Modeled fully in Fusion 360,
 
