@@ -27,17 +27,17 @@ This is my custom-designed rocket made in **Fusion 360**, featuring:
 - Mounted with servo-controlled rotation (each fin individually adjustable)
 - Controlled via  Arduino with PID loop 
 
-###  E-Bay (Electronics Bay)
+###  E-Bay 
 - Houses all flight electronics:
   - IMU / Gyroscope
   - GPS module
-  - Telemetry Radio (e.g., LoRa)
+  - Telemetry Radio ( LoRa)
   - Parachute ejection system (planned)
 - Designed for easy access and modular swaps
 
 ---
 
-##  Build Material (Prototype)
+##  Build Material 
 - 3D printed parts (PLA / PETG for test prints)
 - Carbon fiber tube for main fuselage 
 - Aluminum or plywood for internal support and e-bay
